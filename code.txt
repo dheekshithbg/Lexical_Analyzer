@@ -1,0 +1,14 @@
+import java.io.*;
+import java.util.*;
+
+void hello(){
+
+}
+
+class prog{
+    public static void main(String args[]){
+        int cm=100, c=10;
+        float m=cm/100;//Converting to metre.
+        System.out.println(avg);//Printing
+    }
+}
